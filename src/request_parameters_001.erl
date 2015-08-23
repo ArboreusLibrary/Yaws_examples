@@ -1,4 +1,4 @@
--module(request_parameters).
+-module(request_parameters_001).
 
 %% Yaws API
 -include("/usr/local/lib/yaws/include/yaws_api.hrl").
